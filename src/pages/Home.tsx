@@ -17,7 +17,7 @@ function Home() {
             Educador financeiro com IA
           </span>
 
-          <h1 className="mt-6 max-w-3xl text-5xl font-semibold leading-[1.05] tracking-tight text-white sm:text-6xl lg:text-7xl">
+          <h1 className=" home__title mt-6 max-w-3xl text-5xl font-semibold leading-[1.05] tracking-tight text-white sm:text-6xl lg:text-7xl">
             Entenda seu dinheiro.
             <span className="block text-violet-500">Planeje seu futuro.</span>
           </h1>
