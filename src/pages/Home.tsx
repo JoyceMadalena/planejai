@@ -35,13 +35,6 @@ function Home() {
             >
               Começar minha simulação
             </button>
-
-            <button
-              type="button"
-              className="rounded-xl border border-white/10 px-6 py-3.5 font-medium text-zinc-300 transition hover:border-white/20 hover:text-white"
-            >
-              Como funciona
-            </button>
           </div>
         </div>
 
